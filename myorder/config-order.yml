@@ -1,1 +1,2 @@
-# springcloud-config
+config:  
+  info: config-order.yml file is ok, version = 11
